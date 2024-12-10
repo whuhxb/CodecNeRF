@@ -1,5 +1,7 @@
 # CodecNeRF: Toward Fast Encoding and Decoding, Compact, and High-quality Novel-view Synthesis
 
+
+### AAAI 2025
 [[`arXiv`](https://arxiv.org/abs/2404.04913)]
 [[`Project Page`](https://gynjn.github.io/CodecNeRF/)]
 
